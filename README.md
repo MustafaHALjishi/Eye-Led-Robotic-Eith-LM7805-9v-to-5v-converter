@@ -1,4 +1,4 @@
-# Eye-Led-Robotic-Eith-LM7805-9v-to-5v-converter
+# Eye-Led-Robotic-with-LM7805-9v-to-5v-converter
 
 LM7805 9v to 5v converter:
 
@@ -15,7 +15,7 @@ Multimeters
 ![9V to 5V](https://user-images.githubusercontent.com/85967188/127322625-9ff01e50-4db8-4f10-9725-b9437a4e5702.JPG)
 
 
-Eye Led Robotic Eith LM7805 9v to 5v converter:
+Eye Led Robotic with LM7805 9v to 5v converter:
 
 Description
 This circuit is for converting 9v to 5v and this is for powering our Eye LED Robotic
